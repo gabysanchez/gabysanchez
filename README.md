@@ -13,6 +13,6 @@
 
 ### 💎 Intereses:
 - [x] Tecnologías WEB y Escritorio 
-- [x] Investigación y Aprendizaje
+- [x] Investigación y aprendizaje
 - [x] Fotografía
 - [x] Interpretación
